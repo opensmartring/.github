@@ -17,7 +17,7 @@ The market for affordable smart rings is expanding rapidly, but users often face
 We welcome contributions from developers, testers, and enthusiasts at all skill levels. Whether you want to code, test, document, or simply share ideas, we’d love to have you on board!
 
 ### 💬 Connect with Us
-Join our community on [Discord](https://discord.gg/caFMwZ8k) to discuss ideas, get support, and collaborate with fellow developers and enthusiasts.
+Join our community on [Discord](https://discord.gg/4nFdSVZDhK) to discuss ideas, get support, and collaborate with fellow developers and enthusiasts.
 
 ---
 
